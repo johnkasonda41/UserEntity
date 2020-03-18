@@ -1,0 +1,3 @@
+[submodule "AbstractEntity"]
+	path = AbstractEntity
+	url = https://github.com/SZITraining/AbstractEntity.git
